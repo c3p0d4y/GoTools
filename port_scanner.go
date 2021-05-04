@@ -4,6 +4,7 @@ import(
 	"net"
 	"strconv"
 	"time"
+	"os"
 )
 
 var ipToScan = os.Args[1]
